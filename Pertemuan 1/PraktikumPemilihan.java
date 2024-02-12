@@ -16,10 +16,10 @@ public class PraktikumPemilihan {
         nilaiUAS = input.nextInt();
 
         if (nilaiTugas > 100 || nilaiKuis > 100 || nilaiUTS > 100 || nilaiUAS > 100) {
-            System.out.println("===========================");
+            System.out.println("============================");
             System.out.println("nilai tidak valid");
         } else {
-            System.out.println("===========================");
+            System.out.println("============================");
             nilaiAkhir = (nilaiTugas + nilaiKuis + nilaiUTS + nilaiUAS) / 4;
             System.out.println("nilai akhir: " + nilaiAkhir);
 
