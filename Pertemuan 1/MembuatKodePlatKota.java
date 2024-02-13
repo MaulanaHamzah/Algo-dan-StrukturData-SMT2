@@ -5,7 +5,7 @@ public class MembuatKodePlatKota {
         char[] KODE = {'A', 'B', 'D', 'E', 'F', 'G', 'H', 'L', 'N', 'T'};
         String[][] KOTA = {
                 {"Banten", "Jakarta", "Bandung", "Cirebon", "Bogor",
-                        "Pekalongan", "Semarang", "Surabaya", "Malang", "tegal"}
+                "Pekalongan", "Semarang", "Surabaya", "Malang", "tegal"}
         };
         Scanner scanner = new Scanner(System.in);
         System.out.print("Masukkan kode plat nomor: ");
