@@ -110,16 +110,16 @@ public class Main {
         };
 
         String[][] teams = {
-            {"Team 1\t: Mercedes AMG Petronas,", "\tDriver : Lewis Hamilton,", "George Russel,", "548"},
-            {"Team 2\t: Scuderia Ferrari,", "\t\tDriver : Charles Leclerc,", "Carlos Sainz jr,", "439"},
-            {"Team 3\t: Oracle Red Bull Racing,", "\tDriver : Max Verstappen,", "Sergio Perez,", "273"},
-            {"Team 4\t: McLaren F1 Team,", "\t\tDriver : Lando Norris,", "Oscar Piastri,", "945"},
-            {"Team 5\t: Alpine F1 Team,", "\t\tDriver : Pierre Gasly,", "Esteban Ocon,", "770"},
-            {"Team 6\t: Haas F1 Team,", "\t\tDriver : Kevin Magnussen,", "Nico Hulkenberg,", "276"},
-            {"Team 7\t: Aston Martin Racing,", "\t\tDriver : Fernando Alonso,", "Lance Stroll,", "1005"},
-            {"Team 8\t: Visa Cash App RB,", "\t\tDriver : Daniel Ricciardo,", "Yuki Tsunoda,", "539"},
-            {"Team 9\t: Stake F1 Team,", "\t\tDriver : Valtteri Bottas,", "Zhou Guanyu,", "978"},
-            {"Team 10\t: Williams Racing,", "\t\tDriver : Logan Sargeant,", "Alex Albon,", "620"},
+            {"Team 1\t: Mercedes AMG Petronas,", "\tDriver : Lewis Hamilton,", "George Russel,", "0"},
+            {"Team 2\t: Scuderia Ferrari,", "\t\tDriver : Charles Leclerc,", "Carlos Sainz jr,", "0"},
+            {"Team 3\t: Oracle Red Bull Racing,", "\tDriver : Max Verstappen,", "Sergio Perez,", "0"},
+            {"Team 4\t: McLaren F1 Team,", "\t\tDriver : Lando Norris,", "Oscar Piastri,", "0"},
+            {"Team 5\t: Alpine F1 Team,", "\t\tDriver : Pierre Gasly,", "Esteban Ocon,", "0"},
+            {"Team 6\t: Haas F1 Team,", "\t\tDriver : Kevin Magnussen,", "Nico Hulkenberg,", "0"},
+            {"Team 7\t: Aston Martin Racing,", "\t\tDriver : Fernando Alonso,", "Lance Stroll,", "0"},
+            {"Team 8\t: Visa Cash App RB,", "\t\tDriver : Daniel Ricciardo,", "Yuki Tsunoda,", "0"},
+            {"Team 9\t: Stake F1 Team,", "\t\tDriver : Valtteri Bottas,", "Zhou Guanyu,", "0"},
+            {"Team 10\t: Williams Racing,", "\t\tDriver : Logan Sargeant,", "Alex Albon,", "0"},
         };
 
         for (String[] driver : drivers) {
